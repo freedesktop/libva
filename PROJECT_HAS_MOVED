@@ -1,0 +1,11 @@
+We've consolidated our VAAPI Media software projects upstream onto
+github and have been updating distributions with the new source
+locations.  Changes are in flight.  Next release will be on Github.
+
+Libva project has moved to https://github.com/01org/libva
+
+Use https://github.com/01org/libva/issues/new to file bugs on the
+libva github site
+
+Doxygen files are regularly updated through Github Pages and can
+be accessed directly through [github pages libva](http://01org.github.io/libva/)
